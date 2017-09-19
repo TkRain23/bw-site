@@ -23,6 +23,7 @@ body
     border-color: #fff;
     border-width: 1px;
     padding: 15px 25px;
+    zoom: 100%;
 }
 
 a:-webkit-any-link {
@@ -78,4 +79,10 @@ p {
     -webkit-margin-after: 0em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
+}
+
+@media screen and (max-device-width : 414px) {
+     #nani{
+        zoom:200%;
+    }
 }
