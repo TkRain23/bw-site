@@ -13,8 +13,8 @@ body
 {
     display: table-cell;
     vertical-align: middle;
-    background-color: #000;
-    color: #fff;
+    background-color: #121111;
+    color: #ebeaea;
 }
 
 a:-webkit-any-link 
@@ -26,14 +26,14 @@ a:-webkit-any-link
 #nani
 {
 	border-style: solid;
-    border-color: #fff;
+    border-color: #ebeaea;
     border-width: 1px;
     padding: 15px 25px;
     zoom: 100%;
 }
 
 a:-webkit-any-link {
-    color: white	;
+    color: #ebeaea	;
     cursor: auto;
     text-decoration: none;
 }
